@@ -5,4 +5,4 @@
 **Tecnologías o áreas a fortalecer:**
 - Uso de Python para aplicaciones relacionadas al programa o uso real.
 - Desarrollo de habilidades que puedan complementar mi CV para el programa de verano.
-- Desarrollar las habilidades en grupos de trabajo y comunicación efectiva, ya que es un entorno colaborativo.
+- Mejorar las habilidades en grupos de trabajo y comunicación efectiva, ya que es un entorno colaborativo.
